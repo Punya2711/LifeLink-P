@@ -1,0 +1,6 @@
+{
+  "name": "LifeLink - Emergency Blood & Donor Portal",
+  "description": "Connecting urgent blood recipients with verified donors and real-time hospital blood bank availability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
